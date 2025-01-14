@@ -1,5 +1,5 @@
-# Ha Trong Nhan
-MSV: 22810310279
+# Phan Đức Dương
+MSV: 228100310282
 1. Mục đích sử dụng
 FlatList:
 Dùng khi bạn chỉ cần hiển thị danh sách đơn giản, ví dụ: danh sách sản phẩm, người dùng, bài viết.
